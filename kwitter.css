@@ -1,0 +1,22 @@
+body {
+    background-color:lightblue;
+}
+
+input {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  #div:hover{
+	background-color:lightblue;
+	width: 550px;
+}
+
+.div
+{
+
+	float: none;
+	border-radius: 15px;
+}
